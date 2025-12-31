@@ -4,7 +4,7 @@ A simple implementation of the classic Tic Tac Toe game using Python and the Ric
 
 ## How to Play
 
-1. Run the script using `python tic_tac_toe.py`.
+1. Run the script using `python gamepy`.
 2. The game will start with an empty board.
 3. Player 1 (X) goes first.
 4. Enter the row and column (0-2) for your move.
@@ -21,3 +21,9 @@ A simple implementation of the classic Tic Tac Toe game using Python and the Ric
 - Check for valid moves.
 - Check for win conditions.
 - Play again option.
+
+## Commands
+
+- `update <row> <column>`: Update the board with the player's move.
+- `display`: Display the current state of the board.
+- `reset`: Reset the board to an empty state.
