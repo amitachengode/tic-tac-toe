@@ -4,14 +4,13 @@ A simple implementation of the classic Tic Tac Toe game using Python and the Ric
 
 ## How to Play
 
-1. Run the script using `python gamepy`.
-2. The game will start with an empty board.
-3. Player 1 (X) goes first.
-4. Enter the row and column (0-2) for your move.
-5. The board will be updated with your move.
-6. Player 2 (O) goes next.
-7. Repeat steps 4-6 until a player wins or the board is full.
-8. The game ends when a player wins or the board is full.
+1. The game will start with an empty board.
+2. Player 1 (X) goes first.
+3. Enter the row and column (0-2) for your move.
+4. The board will be updated with your move.
+5. Player 2 (O) goes next.
+6. Repeat steps 4-6 until a player wins or the board is full.
+7. The game ends when a player wins or the board is full.
 
 ## Features
 
